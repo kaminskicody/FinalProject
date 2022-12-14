@@ -1,0 +1,1 @@
+This is a repository contains an analysis of the heart_2020_cleaned.csv dataset from https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease found in FinalProject.ipynb
